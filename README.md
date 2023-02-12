@@ -15,6 +15,9 @@ N/A
 
 The website contains information about 3 different coding languages that you can ustilize to help understand the languages and also has notes about Git. If you go into the DevTools console you can see the JavaScript running. It lists topics that we have on the webpage and also that we have learned while creating this website.
 
+## Credits
+
+N/A
 
 ## License
 
